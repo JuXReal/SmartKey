@@ -23,13 +23,13 @@ or both are reachable
 
 ## How does it work
 
-Your devive (Raspberry etc.) pings the Ip-Adress, if the device is reachable something happens (depends on you)
+Your device (Raspberry etc.) pings the IP-Adress you have enterd in the script, if the devices are reachable something happens (depends on you)
 
 ## Example useage
 
-I have a sercuritycam in my livingroom. I check for 2 IP-Adresses ( Smartphone from me and my Wife ). If we leave the home, the Cam turns to the livingroom. If we come back, it turns over to face the wall. 
+I have a sercuritycam in my livingroom. I check for 2 IP-Adresses (My Smartphone and my wifes smartphone). If we leave the home, the cam turns to the livingroom. If we come back, it turns over to face the wall. 
 
-other possiblity is, to start VPN Server by leaving the home, or disbable/enable SSH from external IP... etc.
+Other possiblity is, to start VPN Server by leaving the home, or disbable/enable SSH from external IP... etc.
 
 Up to you. It would be fine, if i get some new ideas.
 
