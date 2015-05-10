@@ -1,7 +1,7 @@
 # SmartKey
 Use your Smartphone as trigger for your smart Home
 
-## What is SimpleDocumentManagement?
+## What is SmartKey?
 
 Smartkey is a simple script thats looks for two devices in your home network. 
 You can define what should happen if -
